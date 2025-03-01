@@ -14,3 +14,8 @@ int main(){
   return 0;
 }
 ```
+
+### Lista de Carnaval
+  - [x] Jogar LoL
+  - [x] Dormir
+  - [ ] Sair de casa
